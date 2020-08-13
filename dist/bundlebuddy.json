@@ -1,0 +1,9 @@
+[
+	{
+		"target": "demo-rome/src/name.ts",
+		"source": "demo-rome/src/entry.ts"
+	},
+	{
+		"source": "demo-rome/src/entry.ts"
+	}
+]
